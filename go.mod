@@ -1,4 +1,4 @@
-module myUnitl/cron
+module github.com/zutim/cron
 
 go 1.18
 
